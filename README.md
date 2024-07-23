@@ -1,3 +1,9 @@
+# Project Name
+
+## Status
+🚧 This project is currently in progress. Stay tuned for updates! 🚧
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
